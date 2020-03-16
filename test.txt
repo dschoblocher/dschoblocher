@@ -1,1 +1,7 @@
 Hello Wold!
+GitHub ist ein Onlinedienst, der Software-Entwicklungsprojekte auf seinen Servern bereitstellt.
+Namensgebend war das Versionsverwaltungssystem Git. 
+Die GitHub, Inc. hat ihren Sitz in San Francisco in den USA.
+Ähnliche Dienste sind GitLab und Bitbucket.
+Seit 26. Dezember 2018 gehört das Unternehmen zu Microsoft.
+//wikipedia
